@@ -8,3 +8,8 @@ Name: Jennifer Lawrence
 1: Emma Watson and Bill Nighy starred in Harry Potter and the Deathly Hallows: Part 1
 2: Bill Nighy and Stanley Tucci starred in Jack the Giant Slayer
 3: Stanley Tucci and Jennifer Lawrence starred in The Hunger Games`
+
+
+* How to use:
+python degrees.py datasets/large
+
